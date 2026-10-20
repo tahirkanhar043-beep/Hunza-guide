@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" role="img"><defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#12303f"/><stop offset="1" stop-color="#9fc9d8"/></linearGradient></defs><rect width="1200" height="500" fill="url(#s)"/>
+<polygon points="0,500 0,330 150,200 260,300 420,110 560,290 700,190 860,320 1000,170 1200,300 1200,500" fill="#1f6f8b"/>
+<polygon points="420,110 380,160 420,150 450,175 480,150 500,185 560,290 520,200 470,140" fill="#f4f8fa"/>
+<polygon points="1000,170 960,215 1000,205 1030,230 1060,205 1090,240 1000,170" fill="#f4f8fa"/>
+<polygon points="0,500 0,400 200,350 400,410 650,340 900,410 1200,350 1200,500" fill="#12303f"/><polygon points="300,120 360,150 300,180" fill="#f0a02e"/><polygon points="420,120 480,150 420,180" fill="#f4f8fa"/><polygon points="540,120 600,150 540,180" fill="#f0a02e"/><polygon points="660,120 720,150 660,180" fill="#f4f8fa"/><polygon points="780,120 840,150 780,180" fill="#f0a02e"/><line x1="290" y1="120" x2="290" y2="380" stroke="#f4f8fa" stroke-width="5"/><path d="M290 120 Q600 220 900 120" stroke="#f4f8fa" stroke-width="4" fill="none"/></svg>
